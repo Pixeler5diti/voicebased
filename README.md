@@ -1,7 +1,8 @@
 # 🎙️ Voice-Based Calculator
 
 A Python-based voice-controlled calculator that listens to your spoken arithmetic expressions, converts them into valid math expressions, and speaks out the result. Perfect for quick, hands-free calculations!
-```
+
+##Working:
 ![image](https://github.com/user-attachments/assets/81563120-e31b-4ac2-a680-b4bb85e15f24)
 
 
