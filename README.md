@@ -51,5 +51,5 @@ And the program will say the result!
 
 1. **Clone the repository**:
 ```bash
-git clone git@github.com:Pixeler5diti/voicebased.git
-cd voicebased
+git clone git@github.com:Pixeler5diti/voicebasedcalculator.git
+cd voicebasedcalculator
